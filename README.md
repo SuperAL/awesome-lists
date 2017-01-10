@@ -24,6 +24,8 @@ http://alvarotrigo.com/fullPage/
 
 http://www.thepetedesign.com/demos/onepage_scroll_demo.html
 
+http://alvarotrigo.com/pagePiling/examples/horizontalScroll.html
+
 #### 数据动画：
 http://www.chartjs.org/
 
