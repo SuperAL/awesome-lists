@@ -44,3 +44,6 @@ http://scrollmagic.io/examples/advanced/section_slides_manual.html
 
 #### 滚动触发函数：
 http://imakewebthings.com/waypoints/
+
+#### 自定义页面滚动路径：
+http://joelb.me/scrollpath/
