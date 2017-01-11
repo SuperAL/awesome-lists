@@ -38,6 +38,11 @@ http://www.chartjs.org/
 
 http://gionkunz.github.io/chartist-js/
 
+
+**功能强大的Swiper**
+
+http://2.swiper.com.cn/
+
 ### Scroll 动画
 
 **滚动显示**：
