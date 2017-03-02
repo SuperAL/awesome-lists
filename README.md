@@ -68,7 +68,7 @@ http://imakewebthings.com/waypoints/
 http://joelb.me/scrollpath/
 
 ## Components
----
+
 
 > 关于前端组件化的一些优秀实现。
 
@@ -89,7 +89,7 @@ http://joelb.me/scrollpath/
 [魔方组件库](http://mofang.xiaojukeji.com/)
 
 ## Hover Effects
----
+
 - [Hover.css](http://ianlunn.github.io/Hover/)
 > A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
 
