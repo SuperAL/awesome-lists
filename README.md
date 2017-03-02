@@ -66,3 +66,44 @@ http://imakewebthings.com/waypoints/
 **自定义页面滚动路径**：
 
 http://joelb.me/scrollpath/
+
+## Components
+---
+
+> 关于前端组件化的一些优秀实现。
+
+**基于 react 的组件框架**
+
+[AntDesign](https://ant.design/)
+
+**基于 vue 的组件框架，推荐使用**
+
+[Element](http://element.eleme.io/#/zh-CN)
+
+**可以阅读其关于前端组件化的思路**
+
+[AmazeUI](http://amazeui.org/)
+
+**滴滴出品，是个不错的公司前端文档站点案例**
+
+[魔方组件库](http://mofang.xiaojukeji.com/)
+
+## Hover Effects
+---
+- [Hover.css](http://ianlunn.github.io/Hover/)
+> A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+
+ 效果案例：[Border Transitions - Reveal](http://webbyawards.com/winners/2015/special-achievement/)
+
+- [iHover](http://gudh.github.io/ihover/dist/index.html)
+> iHover is an impressive hover effects collection, powered by pure CSS3, no dependency, work well with Bootstrap 3!
+
+- [imagehover.css](http://imagehover.io/)
+> Imagehover.css is a lovingly crafted CSS library allowing you to easily implement scaleable image hover effects. Choose from over 40 hover effect classes from a CSS library weighing in at a minified size of only 19KB.
+
+- [Hover Effect Ideas](http://tympanus.net/Development/HoverEffectIdeas/)
+> An inspirational collection of subtle hover effects
+
+- [Caption Hover Effects](http://tympanus.net/Tutorials/CaptionHoverEffects/index.html)
+
+- [Shape Hover Effect with SVG](http://tympanus.net/Tutorials/ShapeHoverEffectSVG/index.html)
